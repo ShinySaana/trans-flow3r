@@ -1,0 +1,11 @@
+[app]
+name = "Trans"
+menu = "Badge"
+
+[entry]
+class = "Trans"
+
+[metadata]
+author = "ShinySaana"
+license = "MIT"
+url = "https://github.com/ShinySaana/trans-flow3r"
